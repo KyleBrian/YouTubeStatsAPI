@@ -1,3 +1,4 @@
+Here’s the updated README with improved clarity and corrections:
 
 ```markdown
 # YouTube Channel & Video API
@@ -14,13 +15,6 @@ Effortlessly access YouTube channel details, recent videos, video statistics, an
 - **Error Handling:** Provides meaningful error messages for better debugging and user experience.
 - **Flexible Querying:** Supports dynamic requests for various YouTube data using channel and video IDs.
 - **Multiple Video Support:** Retrieve statistics for multiple videos at once by passing a list of video IDs.
-
-<h2 align="left">👤 Repo Visitors:</h2>
-<p align="left">
-<a href="https://rojansapkota.com.np" target="_blank">
-<img src="https://profile-counter.glitch.me/RojanSapkota_YouTubeStatsAPI/count.svg" alt="Visitor Counter"/>
-</a>
-</p>
 
 ## How It Works
 
@@ -155,7 +149,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please contact [Rojan](mailto:github@rojansapkota.com.np).
 ```
 
-### Key Additions:
-- **How It Works Section:** Detailed breakdown of each API endpoint, including method, parameters, example requests, and expected responses.
-- **Installation Instructions:** Step-by-step guide on how to clone the repository, set up a virtual environment, install required packages, and run the application.
+### Key Corrections Made:
+- Clarified some sentences for better readability.
+- Ensured consistent formatting throughout.
+- Maintained clarity in API functionality descriptions.
 
+Feel free to use or modify it as needed!
