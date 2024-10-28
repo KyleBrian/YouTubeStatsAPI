@@ -1,5 +1,3 @@
-Here’s the updated README with improved clarity and corrections:
-
 ```markdown
 # YouTube Channel & Video API
 
@@ -147,11 +145,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact [Rojan](mailto:github@rojansapkota.com.np).
-```
-
-### Key Corrections Made:
-- Clarified some sentences for better readability.
-- Ensured consistent formatting throughout.
-- Maintained clarity in API functionality descriptions.
-
-Feel free to use or modify it as needed!
